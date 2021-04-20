@@ -9,29 +9,29 @@
 - 🔄 In Orbit 👨‍🚀
 - 🔄 Landing 🔥
 - 🔄 Surface Exploration ⚡
-- 🔄 Accelerating your Career 🚀
+- 🔄 Acelerando sua Carreira 🚀
 
 ---
 
-<h2 align="center">Topics 📋</h2>
+<h2 align="center">Tópicos 📋</h2>
 
    <p>
    
-   - [About 📖](#about-)
+   - [Sobre 📖](#sobre-)
    - [Preview 📱](#preview-)
    - [Layout 🎨](#layout-)
-   - [Functionalities 🛠️](#functionalities-%EF%B8%8F)
-   - [Challenges and Learnings along the way 🤯](#challenges-and-learnings-along-the-way-)
-   - [Notion Files 📋](#notion-files-)
-   - [How to Use 🤔](#how-to-use-)
-   - [How to Contribute 💪](#how-to-contribute-)
-   - [License 📝](#license-)
+   - [Funcionalidades 🛠️](#Funcionalidades-%EF%B8%8F)
+   - [Desafios e Aprendizados no Caminho 🤯](#desafios-e-aprendizados-no-caminho-)
+   - [Arquivos no Notion 📋](#arquivos-no-notion-)
+   - [Como Usar 🤔](#como-usar-)
+   - [Como Contribuir 💪](#como-contribuir-)
+   - [Licença 📝](#licença-)
 
    </p>
 
 ---
 
-<h2 align="center">About 📖</h2>
+<h2 align="center">Sobre 📖</h2>
    
 <p align="center">
    <br>
@@ -51,14 +51,14 @@
 <h2 align="center">Layout 🎨</h2>
 
    <p align="center">
-      The Layout was developed by <a href="https://instagram.com/tiagoluchtenberg">Tiago Luchtenberg</a>, and you can access it on Figma:
+      O Layout foi desenvolvido por <a href="https://instagram.com/tiagoluchtenberg">Tiago Luchtenberg</a>, e você pode acessá-lo no Figma:
    
    - <a href="https://www.figma.com/file/XaC3pgD1B0iLSWLTsUqxIe/DevQuiz-(Copy)?node-id=0%3A1">Mobile</a> 📱
    </p>
 
 ---
 
-<h2 align="center">Functionalities 🛠️</h2>
+<h2 align="center">Funcionalidades 🛠️</h2>
 
    <p>
    
@@ -74,24 +74,24 @@
 
 ---
 
-<h2 align="center">Challenges and Learnings along the way 🤯</h2>
+<h2 align="center">Desafios e Aprendizados no Caminho 🤯</h2>
 
    <p>
     <br> 
-    <a href=""></a><br>
+    <a href=""></a>  <br>
     <br>
     <br>
    </p>
 
 ---
 
-<h2 align="center">Notion Files 📋</h2>
+<h2 align="center">Arquivos no Notion 📋</h2>
 
-- [Flutter Trail](https://www.notion.so/Trilha-Flutter-a306b8d8751b4f76a7a1fc8f29db6d65) 🚀
+- [Trilha Flutter](https://www.notion.so/Trilha-Flutter-a306b8d8751b4f76a7a1fc8f29db6d65) 🚀
 
 ---
 
-<h2 align="center">How to Use 🤔</h2>
+<h2 align="center">Como Usar 🤔</h2>
 
 ```
 First of all, correctly configure the Flutter development environment on your machine, see https://flutter.dev/docs/get-started/install
@@ -111,7 +111,7 @@ $ flutter run
 
 ---
 
-<h2 align="center">How to Contribute 💪</h2>
+<h2 align="center">Como Contribuir 💪</h2>
 
 ```
 - Fork the project
@@ -128,5 +128,5 @@ $ git push origin my-feature
 
 ---
 
-> This project was developed with ❤️ by **[@Eli](https://www.linkedin.com/in/eli-leite-5267149a/)**, with the instructor **[@GabulDev](https://www.linkedin.com/in/gabuldev/)**, in #NextLevelWeek05 from **[Rocketseat](https://rocketseat.com.br/)**.<br>
-> If it helped you, give ⭐, contribute, it will help me too 😉
+> Esse projeto foi desenvolvido com ❤️ por **[@Eli](https://www.linkedin.com/in/eli-leite-5267149a/)**, com o instrutor **[@GabulDev](https://www.linkedin.com/in/gabuldev/)**, na #NextLevelWeek05 da **[Rocketseat](https://rocketseat.com.br/)**.<br>
+> Se isso te ajudou, dê uma ⭐, isso vai me ajudar também! 😉
