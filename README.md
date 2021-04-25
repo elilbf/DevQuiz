@@ -8,7 +8,7 @@
 - ✅ Maaximum Speed 🏃‍♂️
 - ✅ In Orbit 👨‍🚀
 - ✅ Landing 🔥
-- 🔄 Surface Exploration ⚡
+- ✅ Surface Exploration ⚡
 - 🔄 Accelerating your Career 🚀
 
 ---
@@ -44,7 +44,9 @@
 
 <h2 align="center">Preview 📱</h2>
 
-> -
+ <p align="center">
+      <img src="assets/images/devquiz_running.gif" width="400" alt="DevQuiz Demo">
+   </p>
 
 ---
 
@@ -62,13 +64,15 @@
 
    <p>
    
-- 
-    -  ,
-    -  ,
-    -  ,
-    -  .
+- Quiz
+    -  Questions,
+    -  Answers,
+    -  User feedback,
+    -  Ranking and Score,
+    -  Results
+    - Sharing Results ...
 
--
+- Among many other amazing things!
 
 - </p>
 
@@ -76,11 +80,11 @@
 
 <h2 align="center">Challenges and Learnings along the way 🤯</h2>
 
-   <p>
-    <br> 
-    <a href=""></a><br>
-    <br>
-    <br>
+  <p>
+   This project was challenging for me and the whole community. A simple application, but it was well structured and organized.<br>
+   I had several mistakes along the way, but I already realize that I am much more mature with the mistakes I made before, feeling more confident and confident than ever about what I do, and this week at NLW helped me a lot and to analyze and see the paths where I can and I want to continue. <br>
+   The community at the event's Discord was sensational, many people with good intentions and wanting to evolve with each other ... <br>
+   Ahhh, I miss you already! Looking forward to new events! <br>
    </p>
 
 ---
