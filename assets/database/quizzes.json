@@ -13,9 +13,7 @@
                 {"title": "Muito top"},
                 {"title": "Show de bola!", "isRight": true}
               ]
-            }
-        ],
-          "questions": [
+            }, 
             {
                 "title": "Está curtindo o Flutter?" , 
                 "answers": [
@@ -25,8 +23,6 @@
                 {"title": "Show de bola!", "isRight": true}
               ]
             }
-
         ]                
-  
   }
 ]

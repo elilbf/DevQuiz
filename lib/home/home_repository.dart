@@ -7,7 +7,8 @@ import 'package:flutter/services.dart';
 class HomeRepository {
   Future<UserModel> getUser() async {
     final response = await rootBundle.loadString("assets/database/user.json");
-    return UserModel.fromJson(response);
+    final user = UserModel.fromJson(response);
+    return user;
   }
 
   Future<List<QuizModel>> getQuizzes() async {
