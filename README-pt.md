@@ -34,10 +34,9 @@
 <h2 align="center">Sobre 📖</h2>
    
 <p align="center">
-   <br>
-   <br>
-   <br>
-   <a href=""></a>
+   Esse projeto foi desenvolvido na Next Level Week, uma semana intensa de estudos, networking, amizade, trabalho em grupo, acompanhado de um projeto sensacional desenvolvido pela Rocketseat do dia 19 ao dia 25 de Abril.<br>
+   Essa aplicação tem como intuito ser um Quiz para programadores intensificarem seu conhecimento em programação através dos exercícios propostos pela aplicação, onde você tem a interatividade de perguntas e respostas.<br>
+   É um projeto básico até aqui, mas que abre muitas portas para ideias, features, parcerias, e muito aprendizado que irei levar para o meu profissional. Mais uma semana NLW concluída com sucesso e muita presença na comunidade, ajudando outras pessoas e tirando dúvidas das mesmas. Foi incrível!<br>
 </p>
 
 ---
