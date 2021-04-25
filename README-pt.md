@@ -25,7 +25,6 @@
    - [Arquivos no Notion 📋](#arquivos-no-notion-)
    - [Como Usar 🤔](#como-usar-)
    - [Como Contribuir 💪](#como-contribuir-)
-   - [Licença 📝](#licença-)
 
    </p>
 
