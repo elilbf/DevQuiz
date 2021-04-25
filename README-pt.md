@@ -8,7 +8,7 @@
 - ✅ Maaximum Speed 🏃‍♂️
 - ✅ In Orbit 👨‍🚀
 - ✅ Landing 🔥
-- 🔄 Surface Exploration ⚡
+- ✅ Surface Exploration ⚡
 - 🔄 Acelerando sua Carreira 🚀
 
 ---
