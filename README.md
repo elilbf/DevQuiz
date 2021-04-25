@@ -25,7 +25,6 @@
    - [Notion Files 📋](#notion-files-)
    - [How to Use 🤔](#how-to-use-)
    - [How to Contribute 💪](#how-to-contribute-)
-   - [License 📝](#license-)
 
    </p>
 
