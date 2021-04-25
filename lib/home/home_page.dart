@@ -50,6 +50,9 @@ class _HomePageState extends State<HomePage> {
                   LevelButtonWidget(label: "Perito"),
                 ],
               ),
+              SizedBox(
+                height: 20,
+              ),
               Expanded(
                   child: GridView.count(
                 crossAxisSpacing: 16,

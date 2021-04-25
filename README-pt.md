@@ -62,13 +62,14 @@
 
    <p>
    
-- 
-    -  ,
-    -  ,
-    -  ,
-    -  .
-
--
+- Quiz 
+    - Perguntas,
+    - Respostas,
+    - Feedback para o usuário,
+    - Ranking e Score, 
+    - Resultados
+    - Compartilhamento de Resultados...
+- Entre várias outras coisas incríveis!
 
 - </p>
 
@@ -76,11 +77,11 @@
 
 <h2 align="center">Desafios e Aprendizados no Caminho 🤯</h2>
 
-   <p>
-    <br> 
-    <a href=""></a>  <br>
-    <br>
-    <br>
+<p>
+   Esse projeto foi desafiador pra mim e para toda a comunidade. Um aplicativo simples, mas que foi bem estruturado e organizado.
+   Tive vários erros no caminho, mas já percebo que estou muito mais maduro com os erros que cometia antes, me sentindo mais confiante e seguro do que nunca sobre o que faço, e essa semana da NLW me ajudou bastante e analisar e ver os caminhos onde posso e quero seguir.<br> 
+   A comunidade no Discord do evento foi sensacional, muitas pessoas com boas intenções e querendo evoluir uns com os outros...<br>
+   Ahhh, já estou com saudades! Ansioso por novos eventos!<br>
    </p>
 
 ---
